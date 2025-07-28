@@ -55,7 +55,7 @@ Chatbot conectado a **WhatsApp y OpenAI**, con backend en **Node.js y Express**,
 ## 📫 Contacto  
 
 - **Email:** francosantillan12@gmail.com  
-- **LinkedIn:** *(tu enlace de LinkedIn)*  
+- **LinkedIn:
 - **GitHub:** [github.com/francosantillan12](https://github.com/francosantillan12)  
 
 ---
