@@ -1,8 +1,13 @@
-# ¡Hola, soy Franco! 👋  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,+soy+Franco!&fontSize=40&fontAlignY=35&desc=Desarrollador+Web+|+JavaScript+|+Node.js&descAlignY=55&descAlign=50" />
+</p>
+
+---
 
 ### 🚀 Desarrollador Web | JavaScript | Node.js | Chatbots con IA  
 
-Soy un apasionado de la programación y la tecnología. Actualmente estoy desarrollando **Mapachito**, un chatbot inteligente integrado con **IA y WhatsApp** para mi proyecto **GreenHouse**, una plataforma dedicada a productos naturales y saludables.  
+Soy un apasionado de la programación y la tecnología. Actualmente estoy desarrollando **Mapachito**, un chatbot inteligente integrado con **IA y WhatsApp** para mi proyecto **GreenHouse**, una plataforma dedicada a productos naturales y saludables.
 
 ---
 
@@ -55,25 +60,14 @@ Chatbot conectado a **WhatsApp y OpenAI**, con backend en **Node.js y Express**,
 ## 📫 Contacto  
 
 - **Email:** francosantillan12@gmail.com  
-- **LinkedIn:
+- **LinkedIn:** 
 - **GitHub:** [github.com/francosantillan12](https://github.com/francosantillan12)  
 
 ---
 
-> *"El código es como el humor: cuando tienes que explicarlo, es malo."*
-## Hi there 👋
+## 👀 Contador de visitas  
 
-<!--
-**francosantillan12/francosantillan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitas](https://komarev.com/ghpvc/?username=francosantillan12&label=VISITAS&color=blue&style=for-the-badge)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
