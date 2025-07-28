@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dbf4b,100:ecd92a&height=200&section=header&text=¡Hola,+soy+Franco!&fontSize=40&fontAlignY=35&desc=Desarrollador+Web+|+IA+|+Chatbots&descAlignY=55&descAlign=50&fontColor=ffffff" />
-</p>
-
----
-
 ### 🚀 Desarrollador Web | JavaScript | Node.js | Chatbots con IA  
 
 Soy un apasionado de la programación y la tecnología. Actualmente estoy desarrollando **Mapachito**, un chatbot inteligente integrado con **IA y WhatsApp** para mi proyecto **GreenHouse**, una plataforma dedicada a productos naturales y saludables.
