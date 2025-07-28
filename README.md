@@ -1,6 +1,6 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Hola,+soy+Franco!&fontSize=40&fontAlignY=35&desc=Desarrollador+Web+|+JavaScript+|+Node.js&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dbf4b,100:ecd92a&height=200&section=header&text=¡Hola,+soy+Franco!&fontSize=40&fontAlignY=35&desc=Desarrollador+Web+|+IA+|+Chatbots&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </p>
 
 ---
