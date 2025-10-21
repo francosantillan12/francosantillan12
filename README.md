@@ -40,8 +40,11 @@ Chatbot conectado a **WhatsApp y OpenAI**, con backend en **Node.js y Express**,
 > Otorgado por **CODERHOUSE – 01 de Agosto del 2025**
 >
 > ### Diploma de React  
-[![Ver Diploma](https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma-React.png)](https://github.com/francosantillan12/certificados4/blob/main/Diploma-React?raw=true)  
+<a href="https://github.com/francosantillan12/certificados/blob/main/Diploma-React.png?raw=true">
+  <img src="https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma-React.png" alt="Diploma de React" width="350">
+</a>  
 > Otorgado por **CODERHOUSE – 20 de Octubre del 2025**
+
 
 
 
