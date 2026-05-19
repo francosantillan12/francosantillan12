@@ -131,7 +131,7 @@ Desarrollo de APIs REST utilizando Node.js, Express y NestJS, aplicando autentic
 # 📫 Contacto
 
 - **Email:** francosantillan12@gmail.com
-- **LinkedIn:** Próximamente
+- **LinkedIn:** https://candidato.ar.computrabajo.com/candidate/cv/edit/?idapp=3&f=FEE939887FF3D46C
 - **GitHub:** [github.com/francosantillan12](https://github.com/francosantillan12)
 
 ---
