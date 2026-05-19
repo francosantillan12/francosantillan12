@@ -116,6 +116,40 @@ Desarrollo de APIs REST utilizando Node.js, Express y NestJS, aplicando autentic
 
 > Otorgado por **CODERHOUSE – 20 de Octubre del 2025**
 
+### Diploma de Backend I
+<a href="https://raw.githubusercontent.com/francosantillan12/certificados/main/4.Diploma-backend%20I.png">
+  <img src="https://raw.githubusercontent.com/francosantillan12/certificados/main/4.Diploma-backend%20I.png" alt="Diploma Backend I" width="400">
+</a>
+
+> Otorgado por **CODERHOUSE** - Diciembre del 2025
+
+---
+
+### Diploma de Backend II
+<a href="https://raw.githubusercontent.com/francosantillan12/certificados/main/5.Diploma-%20Backend%20II.png">
+  <img src="https://raw.githubusercontent.com/francosantillan12/certificados/main/5.Diploma-%20Backend%20II.png" alt="Diploma Backend II" width="400">
+</a>
+
+> Otorgado por **CODERHOUSE** -Marzo del 2026
+
+---
+
+### Diploma de Backend III
+<a href="https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma%20de%20backend%20III.jpeg">
+  <img src="https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma%20de%20backend%20III.jpeg" alt="Diploma Backend III" width="400">
+</a>
+
+> Otorgado por **CODERHOUSE** - Abril del 2026
+
+---
+
+### Diploma de Desarrollo Web Full Stack
+<a href="https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma-%20Desarrollo%20web%20full%20stack.png">
+  <img src="https://raw.githubusercontent.com/francosantillan12/certificados/main/Diploma-%20Desarrollo%20web%20full%20stack.png" alt="Diploma Full Stack" width="400">
+</a>
+
+> Otorgado por **CODERHOUSE**
+
 ---
 
 # 📊 Estadísticas de GitHub
